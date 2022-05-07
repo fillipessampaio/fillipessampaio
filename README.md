@@ -21,7 +21,7 @@ Legal Analytics | Data Analyst | Python & SQL & Excel & Power BI
 - [Classification of Documents](https://github.com/fillipessampaio/Classification_of_Documents)
 <ol>Python | Machine Learning | Classification Models</ol>
 
-- [Text_Labeling](https://github.com/fillipessampaio/Clustering_text_analytics)
+- [Legal Text Labeling](https://github.com/fillipessampaio/Clustering_text_analytics)
 <ol>Python | Machine Learning + NLP  | Clustering + Classification Models</ol>
      
 ## Courses 📚
@@ -30,4 +30,7 @@ Legal Analytics | Data Analyst | Python & SQL & Excel & Power BI
 - [Comunidade DS - Mentored by Meigaron Lopes](https://sejaumdatascientist.com/)
 - Google Data Analytics Professional Certificate (In Progress)
   
- 
+### Contact:
+Linkedin: linkedin.com/in/fillipessampaio
+
+Email: fillipessampaio@gmail.com
