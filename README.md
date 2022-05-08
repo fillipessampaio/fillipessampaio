@@ -23,6 +23,9 @@ Legal Analytics | Data Analyst | Python & SQL & Excel & Power BI
 
 - [Legal Text Labeling](https://github.com/fillipessampaio/Clustering_text_analytics)
 <ol>Python | Machine Learning + NLP  | Clustering + Classification Models</ol>
+
+- [Dashboard Monitoring Tasks by Employee](https://github.com/fillipessampaio/Dashboard_Legal_Tasks_by_Employee)
+- <ol>Python | Power BI</ol>
      
 ## Courses 📚
 - [Formação Cientista de Dados com Python e R - Udemy](https://www.udemy.com/certificate/UC-6ba58777-430d-40ba-b88c-66cc8393796c/)
