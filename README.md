@@ -26,12 +26,15 @@ Legal Analytics | Data Analyst | Python & SQL & Excel & Power BI
 
 - [Dashboard Monitoring Tasks by Employee](https://github.com/fillipessampaio/Dashboard_Legal_Tasks_by_Employee)
 <ol>Python | Power BI</ol>
+
+- [Data requests on Brazilian Judiciary API](https://github.com/fillipessampaio/Dados_Poder_Judiciario_DJEN)
+<ol>Python (Pandas, Requests and Seaborn)</ol>
      
 ## Courses 📚
 - [Formação Cientista de Dados com Python e R - Udemy](https://www.udemy.com/certificate/UC-6ba58777-430d-40ba-b88c-66cc8393796c/)
 - [Python para Data Science e Machine Learning - COMPLETO - Udemy](https://www.udemy.com/certificate/UC-e8e80d6d-2ee5-441a-a328-fa03b86293af/)
 - [Comunidade DS - Mentored by Meigaron Lopes](https://sejaumdatascientist.com/)
-- Google Data Analytics Professional Certificate (In Progress)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MRRSWR4GWBZL)
   
 ### Contact:
 Linkedin: linkedin.com/in/fillipessampaio
