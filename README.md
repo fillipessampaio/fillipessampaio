@@ -29,6 +29,9 @@ Legal Analytics | Data Analyst | Python & SQL & Excel & Power BI
 
 - [Data requests on Brazilian Judiciary API](https://github.com/fillipessampaio/Dados_Poder_Judiciario_DJEN)
 <ol>Python (Pandas, Requests and Seaborn)</ol>
+
+- [Microsoft Power BI for Data Science 2.0 - Data Science Academy](https://github.com/fillipessampaio/Microsoft-Power-BI-for-Data-Science)
+<ol>Power BI</ol>
      
 ## Courses 📚
 - [Formação Cientista de Dados com Python e R - Udemy](https://www.udemy.com/certificate/UC-6ba58777-430d-40ba-b88c-66cc8393796c/)
