@@ -7,7 +7,7 @@
 </p>
 
 ## Fillipe Sampaio
-Legal Analytics | Data Analyst | Python & SQL & Excel & Power BI
+Data Analyst | Data Scientist | Python & SQL & Power BI & Machine Learning
 <ol>📖 Bachelor degree in Law</ol>
 <ol>📊 Graduate Certificated in Data Science</ol>
 
