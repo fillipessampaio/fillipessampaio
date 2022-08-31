@@ -3,7 +3,7 @@
 [![Email Badge](https://img.shields.io/badge/email-fillipessampaio%40gmail.com-red)](fillipessampaio@gmail.com)
 
 <p align="center">
-  <img src="banner1.png" width=100% >
+  <img src="banner_linkedin_limpo.jpg" width=100% >
 </p>
 
 ## Fillipe Sampaio
