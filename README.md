@@ -39,7 +39,7 @@ Data Analyst | Data Scientist | Python & SQL & Power BI & Machine Learning
 - [Comunidade DS - Mentored by Meigaron Lopes](https://sejaumdatascientist.com/)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MRRSWR4GWBZL)
   
-### Contact:
+## Contact :envelope:
 Linkedin: linkedin.com/in/fillipessampaio
 
 Email: fillipessampaio@gmail.com
