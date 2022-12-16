@@ -32,6 +32,9 @@ Data Analyst | Data Scientist | Python & SQL & Power BI & Machine Learning
 
 - [Microsoft Power BI for Data Science 2.0 - Data Science Academy](https://github.com/fillipessampaio/Microsoft-Power-BI-for-Data-Science)
 <ol>Power BI</ol>
+
+- [API building with FastAPI and SQLAlchemy](https://github.com/fillipessampaio/API_building__FastAPI_SQLAlchemy)
+<ol>Python | FastAPI | SQLAlchemy</ol>
      
 ## Courses 📚
 - [Formação Cientista de Dados com Python e R - Udemy](https://www.udemy.com/certificate/UC-6ba58777-430d-40ba-b88c-66cc8393796c/)
