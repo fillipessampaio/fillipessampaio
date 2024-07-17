@@ -7,7 +7,7 @@
 </p>
 
 ## Fillipe Sampaio
-Data Analyst | Data Scientist | Python & SQL & Power BI & Machine Learning
+Software Developer | Python | Flutter | FlutterFlow | Xano | AWS | Data Science
 <ol>📖 Bachelor degree in Law</ol>
 <ol>📊 Graduate Certificated in Data Science</ol>
 
