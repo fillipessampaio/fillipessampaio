@@ -7,13 +7,32 @@
 </p>
 
 ## Fillipe Sampaio
-Software Developer | Mobile and Web Apps | Flutter | FlutterFlow | Python | Firebase | Xano | AWS
+Software Developer | Flutter & FlutterFlow | SQL | Python | Firebase | Supabase | Xano | AWS
 <ol>📖 Bachelor degree in Law</ol>
 <ol>📊 Graduate Certificated in Data Science</ol>
 
 ## Projects 💻
+- **Hadronlink Connectus** *(Private Repository)*  
+  The Professional Network for Skilled Trade Workers.  
+  <ol>Private stack</ol>
+
+- **Therapy CRM** *(Private Repository)*  
+  Management web platform for therapists, with features such as scheduling, medical records and payments.  
+  <ol>Flutter | Supabase | MVVM</ol>
+
+- **Yield Master** *(Private Repository)*  
+  Web application for investment management.
+  <ol>Flutter | Firebase | Supabase</ol>
+
+- **[Sudoku Samuel](https://github.com/fillipessampaio/sudoku_samuel)**  
+  Sudoku game made with love for my son, with levels and visual feedback.
+  <ol>Flutter | Riverpod</ol>
+  
 - [Answering Business Questions with SQL](https://github.com/fillipessampaio/Python_to_database_SQLite3)
 <ol>Python | SQL</ol>
+
+- [API building with FastAPI and SQLAlchemy](https://github.com/fillipessampaio/API_building__FastAPI_SQLAlchemy)
+<ol>Python | FastAPI | SQLAlchemy</ol>
 
 - [Store Sales Prediction](https://github.com/fillipessampaio/store_sales_prediction)
 <ol>Python | Machine Learning | Regression Models</ol>
@@ -32,14 +51,12 @@ Software Developer | Mobile and Web Apps | Flutter | FlutterFlow | Python | Fire
 
 - [Microsoft Power BI for Data Science 2.0 - Data Science Academy](https://github.com/fillipessampaio/Microsoft-Power-BI-for-Data-Science)
 <ol>Power BI</ol>
-
-- [API building with FastAPI and SQLAlchemy](https://github.com/fillipessampaio/API_building__FastAPI_SQLAlchemy)
-<ol>Python | FastAPI | SQLAlchemy</ol>
      
 ## Courses 📚
+- [Flutter & Dart - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/certificate/UC-8b856efa-68b6-41df-95c9-3a7b93c02e7a/)
+- [Data Modeling Training](https://cursos.alura.com.br/degree/certificate/d9d97864-502d-4261-811b-75fa710717fd)
 - [Formação Cientista de Dados com Python e R - Udemy](https://www.udemy.com/certificate/UC-6ba58777-430d-40ba-b88c-66cc8393796c/)
 - [Python para Data Science e Machine Learning - COMPLETO - Udemy](https://www.udemy.com/certificate/UC-e8e80d6d-2ee5-441a-a328-fa03b86293af/)
-- [Comunidade DS - Mentored by Meigaron Lopes](https://sejaumdatascientist.com/)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MRRSWR4GWBZL)
   
 ## Contact :envelope:
