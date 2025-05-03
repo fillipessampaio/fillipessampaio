@@ -13,20 +13,20 @@ Software Developer | Flutter & FlutterFlow | SQL | Python | Firebase | Supabase 
 
 ## Projects 💻
 - [**Hadronlink Connectus**](https://www.hadronlink.com/) *(Private Repository)*  
-  The Professional Network for Skilled Trade Workers.  
-  <ol>Private stack</ol>
+The Professional Network for Skilled Trade Workers.  
+<ol>Private stack</ol>
 
 - **Therapy CRM** *(Private Repository)*  
-  Management web platform for therapists, with features such as scheduling, medical records and payments.  
-  <ol>Flutter | Supabase | MVVM</ol>
+Management web platform for therapists, with features such as scheduling, medical records and payments.  
+<ol>Flutter | Supabase | MVVM</ol>
 
 - **Yield Master** *(Private Repository)*  
-  Web application for investment management.
-  <ol>Flutter | Firebase | Supabase</ol>
+Web application for investment management.
+<ol>Flutter | Firebase | Supabase</ol>
 
 - **[Sudoku Samuel](https://github.com/fillipessampaio/sudoku_samuel)**  
-  Sudoku game made with love for my son, with levels and visual feedback.
-  <ol>Flutter | Riverpod</ol>
+Sudoku game made with love for my son, with levels and visual feedback.
+<ol>Flutter | Riverpod</ol>
   
 - [Answering Business Questions with SQL](https://github.com/fillipessampaio/Python_to_database_SQLite3)
 <ol>Python | SQL</ol>
