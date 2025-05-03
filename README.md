@@ -12,7 +12,7 @@ Software Developer | Flutter & FlutterFlow | SQL | Python | Firebase | Supabase 
 <ol>📊 Graduate Certificated in Data Science</ol>
 
 ## Projects 💻
-- **Hadronlink Connectus** *(Private Repository)*  
+- [**Hadronlink Connectus**](https://www.hadronlink.com/) *(Private Repository)*  
   The Professional Network for Skilled Trade Workers.  
   <ol>Private stack</ol>
 
