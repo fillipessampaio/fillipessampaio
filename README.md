@@ -7,7 +7,7 @@
 </p>
 
 ## Fillipe Sampaio
-Software Developer | Flutter & FlutterFlow | SQL | Python | Firebase | Supabase | Xano | AWS
+Software Developer | Flutter | SQL | Python | Firebase | Supabase | AWS
 <ol>📖 Bachelor degree in Law</ol>
 <ol>📊 Graduate Certificated in Data Science</ol>
 
