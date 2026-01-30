@@ -9,7 +9,7 @@
 # Fillipe Sampaio
 **Software Developer | Flutter | Python | Firebase | Supabase | AWS**
 
----
+
 ## Projects
 
 ### **Connectus Perks**
@@ -24,6 +24,7 @@ Perks and offers feature integrated into the Connectus app.
 
 The feature is technically complete and fully integrated.  
 Adoption and usage are currently tied to ongoing commercial partnerships.
+---
 
 ### **Perks Dashboard**
 *Private Repository*  
@@ -37,6 +38,7 @@ Internal analytics dashboard for perks performance monitoring.
 - Containerized deployment for consistent local and production environments
 
 This project focused on **building internal data tools that balance speed, clarity, and reliability**, enabling non-technical stakeholders to explore analytics safely and efficiently.
+---
 
 ### **Connectus Job Posting Agent**
 *Private Repository*  
@@ -49,6 +51,7 @@ Conversational AI agent for job posting ingestion via WhatsApp.
 - CI/CD pipeline for automated builds and deployments
 
 This project exposed me to **designing AI-powered workflows under real product and infrastructure constraints**, balancing automation, reliability, and maintainability.
+---
 
 ### **Connectus by Hadronlink**  
 *Private Repository*  
@@ -64,7 +67,6 @@ We are currently working on **evolving the codebase toward a cleaner, layered ar
 🔗 https://www.hadronlink.com/
 
 ---
-
 ### **Therapy CRM**
 *Private Repository*  
 Management web platform for therapists.
@@ -75,7 +77,6 @@ Management web platform for therapists.
 - Project currently under development and not yet publicly launched
 
 ---
-
 ### **Yield Master**
 *Private Repository*  
 
@@ -86,7 +87,6 @@ Early-stage web application for investment tracking.
 - Helped me strengthen fundamentals around data handling and UI structure
 
 ---
-
 ### **Sudoku Samuel**  
 A personal project built for my son.
 
@@ -97,7 +97,6 @@ A personal project built for my son.
 🔗 https://github.com/fillipessampaio/sudoku_samuel
 
 ---
-
 ## Technical Background
 
 - Flutter & Dart (Mobile & Web)
@@ -107,7 +106,6 @@ A personal project built for my son.
 - API design and integration
 
 ---
-
 ## Education
 
 - Bachelor degree in Law  
@@ -117,7 +115,6 @@ A personal project built for my son.
 - Google Data Analytics Professional Certificate
      
 ---
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/fillipessampaio  
