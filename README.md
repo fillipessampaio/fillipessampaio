@@ -6,10 +6,49 @@
   <img src="banner linkedin 1.png" width=100% >
 </p>
 
-## Fillipe Sampaio
-Software Developer | Flutter | Python | Firebase | Supabase | AWS
+# Fillipe Sampaio
+**Software Developer | Flutter | Python | Firebase | Supabase | AWS**
 
 ---
+## Projects
+
+### **Connectus Perks**
+*Private Repository*  
+Perks and offers feature integrated into the Connectus app.
+
+- Initially built as a standalone web application and later integrated into the main Connectus app
+- Displays exclusive offers to users through conditional modals and curated carousels
+- Multiple presentation formats (featured, horizontal, compact)
+- Event tracking and campaign monitoring via Firebase Analytics
+- Shipped as part of the latest app release
+
+The feature is technically complete and fully integrated.  
+Adoption and usage are currently tied to ongoing commercial partnerships.
+
+### **Perks Dashboard**
+*Private Repository*  
+Internal analytics dashboard for perks performance monitoring.
+
+- Interactive dashboard for visualizing perks data and engagement metrics
+- Built to support business and partner decision-making
+- Data aggregation and querying over BigQuery datasets
+- Filtering by advertiser and time range
+- KPI visualization for views, clicks, and conversion rates
+- Containerized deployment for consistent local and production environments
+
+This project focused on **building internal data tools that balance speed, clarity, and reliability**, enabling non-technical stakeholders to explore analytics safely and efficiently.
+
+### **Connectus Job Posting Agent**
+*Private Repository*  
+Conversational AI agent for job posting ingestion via WhatsApp.
+
+- AI-driven interface that collects job posting data through conversational flows
+- Integrates with the Connectus platform to create structured job postings
+- Serverless architecture based on AWS Lambda and API Gateway
+- Conversation context persistence to support multi-step interactions
+- CI/CD pipeline for automated builds and deployments
+
+This project exposed me to **designing AI-powered workflows under real product and infrastructure constraints**, balancing automation, reliability, and maintainability.
 
 ### **Connectus by Hadronlink**  
 *Private Repository*  
