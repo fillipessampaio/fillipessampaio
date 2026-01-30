@@ -3,63 +3,83 @@
 [![Email Badge](https://img.shields.io/badge/email-fillipessampaio%40gmail.com-red)](fillipessampaio@gmail.com)
 
 <p align="center">
-  <img src="banner_linkedin_limpo.jpeg" width=100% >
+  <img src="banner linkedin 1.png" width=100% >
 </p>
 
 ## Fillipe Sampaio
-Software Developer | Flutter | SQL | Python | Firebase | Supabase | AWS
-<ol>📖 Bachelor degree in Law</ol>
-<ol>📊 Graduate Certificated in Data Science</ol>
+Software Developer | Flutter | Python | Firebase | Supabase | AWS
 
-## Projects 💻
-- [**Hadronlink Connectus**](https://www.hadronlink.com/) *(Private Repository)*  
-The Professional Network for Skilled Trade Workers.  
-<ol>Private stack</ol>
+---
 
-- **Therapy CRM** *(Private Repository)*  
-Management web platform for therapists, with features such as scheduling, medical records and payments.  
-<ol>Flutter | Supabase | MVVM</ol>
+### **Connectus by Hadronlink**  
+*Private Repository*  
+Professional network platform for skilled trade workers.
 
-- **Yield Master** *(Private Repository)*  
-Web application for investment management.
-<ol>Flutter | Firebase | Supabase</ol>
+- MVP launched and validated with ~2,000 users
+- Multi-platform Flutter app (iOS, Android)
+- Real-time features (chat, project updates)
 
-- **[Sudoku Samuel](https://github.com/fillipessampaio/sudoku_samuel)**  
-Sudoku game made with love for my son, with levels and visual feedback.
-<ol>Flutter | Riverpod</ol>
-  
-- [Answering Business Questions with SQL](https://github.com/fillipessampaio/Python_to_database_SQLite3)
-<ol>Python | SQL</ol>
+This project started as a fast-moving MVP.  
+We are currently working on **evolving the codebase toward a cleaner, layered architecture**, improving maintainability while keeping the product live.
 
-- [API building with FastAPI and SQLAlchemy](https://github.com/fillipessampaio/API_building__FastAPI_SQLAlchemy)
-<ol>Python | FastAPI | SQLAlchemy</ol>
+🔗 https://www.hadronlink.com/
 
-- [Store Sales Prediction](https://github.com/fillipessampaio/store_sales_prediction)
-<ol>Python | Machine Learning | Regression Models</ol>
-    
-- [Classification of Documents](https://github.com/fillipessampaio/Classification_of_Documents)
-<ol>Python | Machine Learning | Classification Models</ol>
+---
 
-- [Legal Text Labeling](https://github.com/fillipessampaio/Clustering_text_analytics)
-<ol>Python | Machine Learning + NLP  | Clustering + Classification Models</ol>
+### **Therapy CRM**
+*Private Repository*  
+Management web platform for therapists.
 
-- [Dashboard Monitoring Tasks by Employee](https://github.com/fillipessampaio/Dashboard_Legal_Tasks_by_Employee)
-<ol>Python | Power BI</ol>
+- Scheduling, medical records, and payments
+- Flutter + Supabase
+- Structured using a **clean, layered architecture**
+- Project currently under development and not yet publicly launched
 
-- [Data requests on Brazilian Judiciary API](https://github.com/fillipessampaio/Dados_Poder_Judiciario_DJEN)
-<ol>Python (Pandas, Requests and Seaborn)</ol>
+---
 
-- [Microsoft Power BI for Data Science 2.0 - Data Science Academy](https://github.com/fillipessampaio/Microsoft-Power-BI-for-Data-Science)
-<ol>Power BI</ol>
+### **Yield Master**
+*Private Repository*  
+
+Early-stage web application for investment tracking.
+
+- Flutter-based web app
+- Built as an exploratory project
+- Helped me strengthen fundamentals around data handling and UI structure
+
+---
+
+### **Sudoku Samuel**  
+A personal project built for my son.
+
+- Flutter
+- Riverpod
+- Emphasis on clean state management and UI feedback loops
+
+🔗 https://github.com/fillipessampaio/sudoku_samuel
+
+---
+
+## Technical Background
+
+- Flutter & Dart (Mobile & Web)
+- Firebase, Supabase, AWS
+- SQL & relational data modeling
+- Python for backend, automation, and data analysis
+- API design and integration
+
+---
+
+## Education
+
+- Bachelor degree in Law  
+- Graduate Certificate in Data Science
+- Flutter & Dart - The Complete Guide (Udemy)
+- Data Modeling Training (Alura)
+- Google Data Analytics Professional Certificate
      
-## Courses 📚
-- [Flutter & Dart - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/certificate/UC-8b856efa-68b6-41df-95c9-3a7b93c02e7a/)
-- [Data Modeling Training](https://cursos.alura.com.br/degree/certificate/d9d97864-502d-4261-811b-75fa710717fd)
-- [Formação Cientista de Dados com Python e R - Udemy](https://www.udemy.com/certificate/UC-6ba58777-430d-40ba-b88c-66cc8393796c/)
-- [Python para Data Science e Machine Learning - COMPLETO - Udemy](https://www.udemy.com/certificate/UC-e8e80d6d-2ee5-441a-a328-fa03b86293af/)
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MRRSWR4GWBZL)
-  
-## Contact :envelope:
-Linkedin: linkedin.com/in/fillipessampaio
+---
 
-Email: fillipessampaio@gmail.com
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/fillipessampaio  
+- Email: fillipessampaio@gmail.com
